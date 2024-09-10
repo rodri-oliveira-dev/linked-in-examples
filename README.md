@@ -9,17 +9,8 @@ Os exemplos estão organizados por linguagem. Dentro de cada pasta, você vai en
 
 ```bash
 ├── CSharp/
-│   ├── HelloWorld.cs
-│   ├── TaskParallelExample.cs
-│   └── LINQQueries.cs
 ├── Python/
-│   ├── HelloWorld.py
-│   ├── AsyncProgramming.py
-│   └── DataProcessing.py
 ├── JavaScript/
-│   ├── HelloWorld.js
-│   ├── PromisesExample.js
-│   └── FetchAPIExample.js
 └── README.md
 ```
 
@@ -57,11 +48,3 @@ Se algum código aqui for útil para você ou servir de inspiração, sinta-se �
 ## Licença
 
 Este repositório é público, então fique à vontade para explorar, aprender e utilizar os exemplos conforme necessário. Todos os exemplos estão licenciados sob a [MIT License](LICENSE), o que significa que você pode usá-los livremente, desde que dê os devidos créditos.
-
-
----
-
-Vou continuar adicionando mais exemplos conforme for aprendendo e testando novas tecnologias. 🚀
-```
-
-Essa versão é mais descontraída e acessível, dando um tom mais pessoal e amigável, enquanto ainda mantém as informações essenciais claras e organizadas.
